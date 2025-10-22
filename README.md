@@ -26,3 +26,5 @@ When code is pushed to the `main` branch, the workflow automatically:
 - **Docker login failure**: Verify secrets are correctly set in GitHub.
 - **Test failure**: Ensure the `npm test` script exits with code 0 (no errors).
 - **Build failure**: Check the `Dockerfile` for syntax errors.
+
+TESTING BUILD
